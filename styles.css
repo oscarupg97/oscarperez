@@ -2,5 +2,8 @@ body{
     text-align: center;
 }
 #cabecera{
-    color: #6161D6;
+    background-color: blue;
+}
+footer{
+    display: block;
 }
